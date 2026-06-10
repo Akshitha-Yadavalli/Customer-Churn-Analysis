@@ -1,0 +1,12 @@
+CUSTOMER CHURN ANALYSIS REPORT
+=============================
+
+Total Customers: 20
+Churned Customers: 9
+Active Customers: 11
+
+Key Findings:
+- Customers with low engagement scores show higher churn.
+- Basic plan users churn more frequently.
+- Higher tenure customers are less likely to churn.
+- Frequent support tickets indicate dissatisfaction.
